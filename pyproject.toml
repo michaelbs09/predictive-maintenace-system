@@ -11,7 +11,8 @@ dependencies = [
     "uvicorn",
     "pydantic",
     "shap",
-    "joblib"
+    "joblib",
+    "mlflow>=3.10.1",
 ]
 
 [project.optional-dependencies]
