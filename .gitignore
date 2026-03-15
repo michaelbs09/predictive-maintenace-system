@@ -7,11 +7,12 @@ __pycache__/
 .env
 .venv
 
-data/
-models/
+/data/
+/models/
 
 dist/
 build/
+/mlruns/
 
 .pytest_cache
 .mypy_cache
